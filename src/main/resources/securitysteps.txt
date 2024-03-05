@@ -1,0 +1,8 @@
+
+
+password from console
+http://localhost:8080/
+http://localhost:8080/login?logout
+
+authorization tab headers encoded string copy and pasteb below url 
+https://www.base64decode.org/
